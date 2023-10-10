@@ -1,6 +1,6 @@
 const authEndpoint = "https://accounts.spotify.com/authorize"
 
-const redirectUri = "http://localhost:5173"
+const redirectUri = "https://spotifyclonedolunay.netlify.app"
 
 const scopes = [
     "user-modify-playback-state",
