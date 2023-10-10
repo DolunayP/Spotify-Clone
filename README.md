@@ -69,7 +69,7 @@ npm run dev
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/DolunayP/Spotify-Clone/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/DolunayP/Spotify-Clone/blob/master/LICENSE.md) for more information.
 
 ## Authors
 
