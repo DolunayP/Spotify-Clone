@@ -3,7 +3,7 @@ import './App.css'
 import Login from './pages/Login'
 import { getToken } from './spotify'
 import Player from './pages/Player'
-import { getDataAfterLogin, getPlaylist, getWeekly } from './redux/dataSlice'
+import { getDataAfterLogin, getPlaylist } from './redux/dataSlice'
 import { useDispatch } from 'react-redux'
 
 function App() {
@@ -16,7 +16,6 @@ function App() {
       setToken(_token)
       dispatch(getDataAfterLogin());
       dispatch(getPlaylist());
-      // window.location.hash = ''
     }
   }, [dispatch])
 
