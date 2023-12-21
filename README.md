@@ -19,7 +19,9 @@
 
 ## About The Project
 
+![spotify clone banner](https://github.com/DolunayP/Spotify-Clone/assets/121766587/4503f64a-9081-4f75-826b-6b80d285a944)
 
+With The Spotify Clone App You can reach your spotify musics, playlists etc., you can see popular and new albums & songs in turkey up to date they are updating, you can listen any music which are avaliable on real spotify (but just for 30 seconds cause of policy of spotify :)), you can find any artist, song, album etc. on this app which are avaliable on real spotify. You can turn volume up & down :)).
 
 ## Built With
 
