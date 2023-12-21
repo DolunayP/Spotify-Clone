@@ -1,9 +1,9 @@
 <br/>
 <p align="center">
-  <h3 align="center">Weather Forecast APP</h3>
+  <h3 align="center"> Spotify Clone </h3>
 
   <p align="center">
-    Weather Forecast App React-Redux
+    Spotify Clone App
     <br/>
     <br/>
     <a href="https://github.com/DolunayP/Spotify-Clone"><strong>Explore the docs »</strong></a>
@@ -23,7 +23,7 @@
 
 ## Built With
 
-The app is developed using Spotify Web Api, React.js, Tailwind CSS, Axios, React-Sound, React-Redux, material-UI and Vite.
+The app developed by using Spotify Web Api, React.js, Tailwind CSS, Axios, React-Sound, React-Redux, material-UI and Vite.
 * ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 * ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 * ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
