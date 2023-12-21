@@ -1,12 +1,12 @@
 import React from 'react'
 import SidebarOptions from './SidebarOptions'
-
+import logo from './../../assets/logo.png'
 const SideBar = ({ word, setWord }) => {
 
     return (
         <div className='flex-[0.2] px-4 h-screen border-1 min-w-[220px] bg-black text-white '>
             <div className=' mt-4 w-[75px] m-auto cursor-pointer'>
-                <img className="w-full h-full" src='../../assets/music-note-03b755ca.png' alt="" />
+                <img className="w-full h-full" src={logo} alt="" />
             </div>
 
             <SidebarOptions word={word} setWord={setWord} />
